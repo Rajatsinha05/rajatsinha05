@@ -12,7 +12,7 @@ collaboration..</span>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatsinha05&label=Profile%20views&color=0e75b6&style=flat" alt="rajatsinha05" /> </p>
 
 
- <p><img align="right" width="350" height="250"  src='https://camo.githubusercontent.com/2d74e5bb8437158e8e03f146db949b974c13df30804383207563ec797213182c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f663369774a464f564f777579374b364646772f67697068792e676966' /></p>
+ <p><img align="right" width="350" height="280"  src='https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif' /></p>
 
 
 ``` react.js
