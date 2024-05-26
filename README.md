@@ -1,18 +1,22 @@
 
 <img align="center" src='https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e' />
 
+<h1 align="center">👋 Hi, I'm Rajat Sinha</h1>
 
-<h1 align="center">Hi 👋, I'm Rajat Sinha</h1>
-<span align="center">An Aspiring and Self - Motivated Full Stack<br/>
-Web Developer with Problem solving<br/>
-mindset and ability to perform well in<br/>
-collaboration..</span>
+<p align="center">
+  <strong>Experienced Full Stack Web Developer</strong>
+  with a <em>Strong Problem-Solving Mindset</em>
+  and <em>Excellent Collaboration Skills</em>.
+</p>
+
+
+
 
 ##
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatsinha05&label=Profile%20views&color=0e75b6&style=flat" alt="rajatsinha05" /> </p>
 
 
- <p><img align="right" width="350" height="280"  src='https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif' /></p>
+ <p><img align="right" width="350" height="340"  src='https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif' /></p>
 
 
 ``` react.js
@@ -22,36 +26,36 @@ import SoftwareDeveloper from 'India';
 class Bio extends SoftwareDeveloper {
   name     = 'Rajat Sinha';
   title    = 'Software Engineer';
-  location = 'Jharkhnad, India';
+  location = 'Jharkhand, India';
   availability = "Available to hire!!"
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'java'];
-  frameworks = ['React'];
+  languages  = ['JavaScript', 'Java', 'TypeScript', 'C++', 'Python'];
+  frameworks = ['Spring Boot', 'React', 'Bootstrap', 'Express'];
+  runtimeEnvironments = ['Node.js'];
+  databases = ['MySQL', 'MongoDB'];
+  tools = ['Git', 'Docker', 'Jenkins', 'AWS'];
 }
+
 
 ```
 
 ```css
+---
+- 🔭 I’m currently working on **an online judge compiler** (similar to LeetCode)
 
+- 🌱 I’m currently learning **Spring Boot**
 
- 
-- 🔭 I’m currently working on **Royal Brothers --clone**
+- 📝 I regularly write articles on [Medium](https://medium.com/@rajatsinha)
 
-- 🌱 I’m currently learning **next.js**
+- 💬 Ask me about **MERN, Java Spring Boot, MySQL**
 
-- 📝 I regularly write articles on [Medium](Medium)
-
-- 💬 Ask me about **React,HTML,CSS**
-
-
-- 📫 How to reach me **Rajatsinha5467@gmail.com**
+- 📫 How to reach me: **Rajatsinha5467@gmail.com**
+---
 
   ```
   
-  
-
 ### Blogs posts
 
 ## 🌐 Socials:
