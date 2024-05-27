@@ -42,7 +42,7 @@ class Skills extends SoftwareDeveloper {
 ```
 
 ```css
----
+
 - 🔭 I’m currently working on **an online judge compiler** (similar to LeetCode)
 
 - 🌱 I’m currently learning **Spring Boot**
@@ -52,7 +52,6 @@ class Skills extends SoftwareDeveloper {
 - 💬 Ask me about **MERN, Java Spring Boot, MySQL**
 
 - 📫 How to reach me: **Rajatsinha5467@gmail.com**
----
 
   ```
   
