@@ -9,15 +9,11 @@
   and <em>Excellent Collaboration Skills</em>.
 </p>
 
-
-
-
 ##
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatsinha05&label=Profile%20views&color=0e75b6&style=flat" alt="rajatsinha05" /> </p>
 
 
  <p><img align="right" width="350" height="300"  src='https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif' /></p>
-
 
 ``` react.js
 
